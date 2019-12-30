@@ -1,0 +1,2 @@
+Half of the items that are present in Version 1 should be in other versions instead of version 1.
+Version 1: 2 scenes created, water added, beds added to the living quarters, buttons added(not interactable) and SteamVR plugin added to the scenes.
